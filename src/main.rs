@@ -5,10 +5,10 @@
 // use learn::ch05;
 // use learn::ch06;
 // use learn::ch07;
-// use learn::ch08;
+use learn::ch08;
 // use learn::ch09;
-use learn::ch10;
+// use learn::ch10;
 
 fn main() {
-  ch10::run();
+  ch08::run();
 }
